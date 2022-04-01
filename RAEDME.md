@@ -1,6 +1,6 @@
 # Spotify Control
 
-Wondows command-line tool to control Spotify.
+Windows command-line tool to control Spotify.
 
 Usage: sc <command>
 
