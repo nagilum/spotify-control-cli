@@ -2,7 +2,7 @@
 
 Windows command-line tool to control Spotify.
 
-Usage: sc <command>
+Usage: sc command
 
 Commands:
 * pp - Play/pause.
